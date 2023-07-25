@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title>KitKatCat</title>
@@ -5,11 +6,22 @@
         <link rel="stylesheet" href="style.css">
     </head>
 <body>
-    <div class="banner"></div>
+    <div class="banner">
+        <div class="row">
+            <div class="column">
+                <img src="pictures/cat.JPG" alt="Cat Before Image" style="width:100%"> 
+                <figcaption class="figCaption">BEFORE</figcaption>
+            </div>
+            <div class="column">
+                <img src="pictures/catCovered.jpeg" alt="Cat After Image" style="width:100%">
+                <figcaption class="figCaption">AFTER</figcaption>
+            </div>
+        </div>
+    </div>
     <div class="upper-centerText"><span class="upper-centerTextHover">KitKatCat - An Image replacement tool</span></div>
     <form> <!--for uploading images-->
         <label for="imageUpload" class="CatUpload"> 
-            <span>&#x1F431; Upload A Cat Image:</span>
+            <span>&#x1F431; Upload A  FULL BODY Cat Image:</span>
         </label>
         <input type="file" id="imageUpload" name="imageUpload">
         <input type="submit" value="Upload">
