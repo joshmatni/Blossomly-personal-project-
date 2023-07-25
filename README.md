@@ -9,6 +9,7 @@ The goal of this project is to:
 
 - have fun :)
 
+<img width="1512" alt="Screenshot 2023-07-25 at 11 18 40 AM" src="https://github.com/joshmatni/KitKatCat-project-/assets/112925006/01e63310-fcbe-42c4-805a-536112377258">
 
 
 tentative schedule for my project:
