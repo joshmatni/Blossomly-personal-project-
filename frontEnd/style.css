@@ -6,7 +6,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(130, 225, 246, 0.75),rgba(219, 147, 191, 0.75)),url(blossomBackground.jpeg); 
+    background-image: linear-gradient(rgba(130, 225, 246, 0.75),rgba(219, 147, 191, 0.75)),url(a-cat-gif.gif); 
     background-size: cover;
     background-position: center;
     /* z-index: -1;  idk if this is needed*/
